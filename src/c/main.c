@@ -1,5 +1,7 @@
-#include "main.h"
 #include <pebble.h>
+
+#include "main.h"
+#include "time.h"
 
 static Window *s_main_window;
 static TextLayer *s_time_layer;
