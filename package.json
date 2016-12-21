@@ -1,0 +1,29 @@
+{
+    "author": "Luke Storry",
+    "dependencies": {},
+    "keywords": [],
+    "name": "comic_face",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "comic_face",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "40c9efbc-533b-422b-871c-f65c90d4fcab",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
